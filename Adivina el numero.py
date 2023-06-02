@@ -5,7 +5,6 @@ clear()
 print("Juguemos, pensare en un numero y tu lo tendras que adivinar en tres intentos")
 print("  ")
 bot = random.randint(1,10)
-print(bot)
 i=0
 i= int()
 while i<3:
